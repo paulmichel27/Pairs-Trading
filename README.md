@@ -8,7 +8,7 @@
 #1. Pairs selecting: e.g. using cointegration, correlation, Kendall Tau correlation
 #2. Spread modelling: Model the spread in a way that maximises mean reversion (a financial theory that states that an asset's price will tend to converge to the average price over time) and ensures market neutrality of the strategy
 #3. Trading rules: Established based on the type of utilised approach and the spread behaviour
-
+s
 ## Different types of pairs trading strategies 
 ### Distance approach 
 #
