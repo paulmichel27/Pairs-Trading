@@ -25,9 +25,9 @@
 ### Distance approach 
 - During the pair selection process, various distance metrics like Pearson's correlation, distance correlation, angular distance, and so on, are leveraged to identify co-moving assets.
 - In the trading period, simple non-parametric threshold rules (a set of straightforward guidelines to determine when to buy and sell stocks or other financial assets) are used to trigger the trading signals
-- 2 steps in distance approach: Pairs formation and trading signal generation
+- 2 steps in the distance approach: Pairs formation and trading signal generation
 - Pairs formation
   1. Normalisation of input data
-  2. Pairs selection: Using euclidean distance
-  3. Calculating historical volatility: Threshold in trading period
+  2. Pairs selection: Using Euclidean distance
+  3. Calculating historical volatility: Threshold in the trading period
 
