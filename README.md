@@ -31,3 +31,7 @@
   2. Pairs selection: Using Euclidean distance
   3. Calculating historical volatility: Threshold in the trading period
 
+### Time Series Approach
+- Time series modelling of a mean-reverting process
+- During pairs selection, the goal is to create a truly mean-reverting portfolio/spread
+- Mean-reverting process is fitted to the spread, in order to determine the optimal rules for the trading strategy
